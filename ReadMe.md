@@ -10,6 +10,6 @@ I'm currently on a journey to upskill myself, improving my coding skills, <br>an
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeus-mnn&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Zeus-mnn&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Malibongwe&label=Profile%20Views&color=3&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
